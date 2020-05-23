@@ -1,2 +1,3 @@
 # hello-world
-primer repositorio
+Repositorio
+En este archivo empezare a memorizar todo
